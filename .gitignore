@@ -1,5 +1,12 @@
 composer.phar
 vendor/
+assets/templates/admin2/bower_components
+assets/templates/admin2/js
+assets/templates/admin2/less
+assets/templates/admin2/pages
+assets/templates/admin2/index.html
+code/app/Config.php
+code/files
 
 # Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
